@@ -1,0 +1,126 @@
+*{
+	padding: 0;
+	margin: 0;
+	font-family: "微软雅黑";
+}
+.one,.two,.three,.four,.five{	
+	width:100%;
+	
+}
+.one,.three,.five{
+	padding-bottom: 50%;
+}
+.one{
+	background: url("../img/chanpjs/gsjj1.jpg") no-repeat;
+	background-attachment: fixed;
+	/*	background-size: 100%;*/
+}
+.three{
+	background: url("../img/chanpjs/gsjj2.jpg") no-repeat;
+	background-attachment: fixed;
+	/*	background-size: 100%;*/
+}
+.five{
+	background: url("../img/chanpjs/gsjj3.jpg") no-repeat;
+	background-attachment: fixed;
+	/*	background-size: 100%;*/
+}
+.two,.four,.six{
+	padding-top: 6%;
+	text-align: center;
+	font-size:16px;
+	padding-bottom: 7%;
+	font-weight: bold;
+	line-height: 187%;
+}
+.twelve,.thirteen{
+	width:100%;
+	position: relative;
+	overflow: hidden;
+	
+}
+.twelve .img1{
+	width: 100%;
+	display: block;
+}
+.twelve_center,.thirteen_center{
+	
+	position: absolute;
+	top:0;
+	width:80%;
+    left:50%;
+    transform: translateX(-50%);
+    padding-top:2%;
+    font-family: "微软雅黑";
+}
+.twelve_center{
+	padding-top: 6%;
+	text-align: center;
+}
+.twelve_center p{
+	 width:100%;
+	 text-align: center;	
+	  font-size: 27px;
+	  color:white;
+}
+.twelve_center .p2{
+	margin-top: 1%;
+}
+.twelve_center div{
+  text-align: center;
+   padding:1%;
+  background:#c31b26;	
+  color:white;
+  width:20%;
+  margin-left: 40%;
+  margin-top: 2%;
+}
+.thirteen{
+	padding-bottom:22%;
+	position: relative;
+}
+.thirteen_center{
+	padding-top:21%;
+}
+.thirteen_center p{
+	color:#c31b26;
+	font-size:19px;
+	position: absolute;
+	left:-2%;
+	top:15%;
+}
+.thirteen_center div{
+	position: absolute;
+	left:2%;
+	top:44%;
+	 font-size: 14px;
+	 color:rgb(146,123,114);
+}
+.thirteen_center div span{
+	color:#c31b26;
+}
+.thirteen_center ul{
+	list-style: none;
+	position: absolute;
+	left:56%;
+	top:21%;
+	font-size:14px;
+	color:rgb(146,123,114);	
+}
+.thirteen_center .ul2{
+	left:68%;
+}
+.thirteen_center .ul3{
+	left:81%;
+}
+.thirteen_center ul li{
+	line-height:160%;
+}
+.thirteen_center ul .li1{
+	margin-bottom: 18%;
+	color:black;
+	font-size:15px;
+}
+@media only screen and (max-width: 434px){
+
+}

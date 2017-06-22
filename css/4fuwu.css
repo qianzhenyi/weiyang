@@ -1,0 +1,542 @@
+*{
+	padding: 0;
+	margin: 0;
+	font-family: "微软雅黑";
+}
+
+.one{	
+	width:100%;
+	position: relative;
+	overflow: hidden;	
+}
+.b{
+	position: absolute;
+	top:0;
+	width:80%;
+    left:50%;
+    transform: translateX(-50%);
+    padding-top:2%;
+    font-family: "微软雅黑";
+}
+
+.one .img1{
+	width: 100%;
+	display: block;
+
+}
+.one .p1{
+	width:100%;
+	text-align: center;
+	color:white;
+	font-size:33px;
+	position: absolute;
+	left:0%;
+	top:26%;
+}
+.one .p2{
+	width:100%;
+	text-align: center;
+	color:white;
+	font-size:15px;
+	position: absolute;
+	left:-1%;
+	top:57%;
+}
+.two{	
+	width:100%;	
+	background: #dbdbdb;
+}
+.two_center{
+    width:80%;
+    margin: 0 auto;
+    padding-top:3%;
+    font-family: "微软雅黑";
+    position: relative;
+    padding-bottom: 4%;
+    
+}
+.two_center div{
+	display: inline-block;
+	font-size: 14px;
+	width:49%;
+}
+.two_center .div2{
+	padding-bottom: 3%;;
+}
+.two_center div .p1{
+	color:#c31b26;
+	background: url("../img/why/dui-195.png") no-repeat 0% 1%;
+	padding-left: 6%;
+	font-size:16px;
+}
+.two_center div .p2{
+	padding-left: 6%;
+}
+.three{	
+	width:100%;	
+	background: white;
+}
+.three_center{
+    width:80%;
+    margin: 0 auto;
+    padding-top:3%;
+    font-family: "微软雅黑";
+    position: relative;
+    padding-bottom: 4%;
+    overflow: hidden;
+    
+}
+.three_center .pq{
+	color:#c31b26;
+	width:100%;
+	font-size: 29px;
+	text-align: center;
+}
+.three_center .left,.three_center .right{
+	margin-top: 7%;
+	float:left;
+	width:50%;
+}
+.three_center .left .w,.three_center .right .w{
+	padding-bottom: 32%;
+	padding-left:30%;
+}
+
+.three_center .left .div1{
+	background:url("../img/why/why_05.png") no-repeat;
+	
+}
+.three_center .left .div2{
+	background:url("../img/why/why_11.png") no-repeat;
+}
+.three_center .left .div3{
+	background:url("../img/why/why_16.png") no-repeat;
+}
+.three_center .left .div4{
+	background:url("../img/why/why_22.png") no-repeat;
+}
+.three_center .left .div5{
+	background:url("../img/why/why_27.png") no-repeat;
+}
+
+.three_center .right .div1{
+	background:url("../img/why/why_07.png") no-repeat;
+}
+.three_center .right .div2{
+	background:url("../img/why/why_12.png") no-repeat;
+}
+.three_center .right .div3{
+	background:url("../img/why/why_18.png") no-repeat;
+}
+.three_center .right .div4{
+	background:url("../img/why/why_23.png") no-repeat;
+}
+.three_center .right .div5{
+	background:url("../img/why/why_29.png") no-repeat;
+}
+.three_center .left .w .p1,.three_center .right .w .p1{
+	font-weight: bold;
+
+}
+.three_center .left .w .p2,.three_center .right .w .p2{
+	margin-top: 2%;
+	font-size: 13px;
+	color:#959595;
+}
+
+.four{	
+	width:100%;	
+	background: #dbdbdb;
+}
+.four_center{
+    width:80%;
+    margin: 0 auto;
+    padding-top:3%;
+    font-family: "微软雅黑";
+    position: relative;
+    padding-bottom: 4%;
+    
+}
+.four_center .pq{
+	width:100%;
+	font-size: 29px;
+	text-align: center;
+	padding-bottom: 3%;
+}
+.four_center div{
+	position: relative;
+	display: inline-block;
+	width:33%;
+	margin-bottom: 1%;
+}
+.four_center div img{
+	width:96%;
+}
+.four_center div p{
+	width:96%;
+	height:82%;
+	text-align: center;
+	font-size: 17px;
+	color:white;
+	position: absolute;
+	top:0;
+	padding-top: 30%;
+	
+}
+.four_center div .p1{
+	background: url("../img/chanpjs/xiangzhuang-1.png") no-repeat 49% 50%;
+}
+
+.five{	
+	width:100%;	
+	background: white;
+}
+.five_center{
+    width:80%;
+    margin: 0 auto;
+    padding-top:3%;
+    font-family: "微软雅黑";
+    position: relative;
+    
+}
+.five_center div{
+	display: inline-block;
+    padding-bottom: 10%;
+    margin-right: -1%;
+}
+.five_center div p{
+	font-size:12px;
+	color:#c1c1c1;
+}
+.five_center div img{
+	width:90%;
+}
+
+
+
+.twelve,.thirteen{
+	width:100%;
+	position: relative;
+	overflow: hidden;
+	
+}
+.twelve .img1{
+	width: 100%;
+	display: block;
+}
+.twelve_center,.thirteen_center{
+	
+	position: absolute;
+	top:0;
+	width:80%;
+    left:50%;
+    transform: translateX(-50%);
+    padding-top:2%;
+    font-family: "微软雅黑";
+}
+.twelve_center{
+	padding-top: 6%;
+	text-align: center;
+}
+.twelve_center p{
+	 width:100%;
+	 text-align: center;	
+	  font-size: 27px;
+	  color:white;
+}
+.twelve_center .p2{
+	margin-top: 1%;
+}
+.twelve_center div{
+  text-align: center;
+   padding:1%;
+  background:#c31b26;	
+  color:white;
+  width:20%;
+  margin-left: 40%;
+  margin-top: 2%;
+}
+.thirteen{
+	padding-bottom:22%;
+	position: relative;
+}
+.thirteen_center{
+	padding-top:21%;
+}
+.thirteen_center p{
+	color:#c31b26;
+	font-size:19px;
+	position: absolute;
+	left:-2%;
+	top:15%;
+}
+.thirteen_center div{
+	position: absolute;
+	left:2%;
+	top:44%;
+	 font-size: 14px;
+	 color:rgb(146,123,114);
+}
+.thirteen_center div span{
+	color:#c31b26;
+}
+.thirteen_center ul{
+	list-style: none;
+	position: absolute;
+	left:56%;
+	top:21%;
+	font-size:14px;
+	color:rgb(146,123,114);	
+}
+.thirteen_center .ul2{
+	left:68%;
+}
+.thirteen_center .ul3{
+	left:81%;
+}
+.thirteen_center ul li{
+	line-height:160%;
+}
+.thirteen_center ul .li1{
+	margin-bottom: 18%;
+	color:black;
+	font-size:15px;
+}
+
+@media only screen and (max-width: 1350px){
+	.three_center .left .w, .three_center .right .w{
+		background-size: 28%;
+	}
+	.four_center div .p1{
+		background-size: 5%;
+	}
+	.four_center div{
+		width: 31%;
+	}
+	.five_center div{
+		width: 24%;
+	}
+}
+@media only screen and (max-width: 1100px){
+	.two_center div .p2{
+		padding-left: 1%;
+	}
+	.two_center{
+		width:90%;
+	}
+	.two_center div .p1{
+		font-size:14px;
+	}
+	.two_center div{
+		font-size:12px;
+	}
+	.one .p1{
+		font-size:26px;
+	}
+	.one .p2{
+		font-size:13px;
+	}
+}
+
+@media only screen and (max-width: 970px){
+	.twelve_center p{
+		font-size: 21px;
+	}
+	.thirteen_center{
+		padding-top: 11%;
+	}
+}
+@media only screen and (max-width: 869px){
+	.five_center h6{
+		display: none;
+	}
+	.twelve_center, .thirteen_center{
+		width:95%;
+	}
+	.twelve_center p{
+		font-size: 17px;
+	}
+	.twelve_center{
+		padding-top: 4%;
+	}
+	.thirteen_center ul{
+		font-size: 12px;
+	}
+	.thirteen_center ul .li1{
+		font-size: 13px;
+	}
+
+	.thirteen_center p{
+		font-size: 15px;
+	}
+	.thirteen_center div{
+		left:-1%;
+			top:42%;
+			width:46%;
+			font-size: 12px;
+	}
+  .thirteen_center .ul1 .lili, .thirteen_center .ul2 .lili{
+  	display: none;
+  }
+  .thirteen_center ul{
+  	left:52%;
+  }
+  .thirteen_center .ul3{
+  	left:85%;
+  }
+}
+@media only screen and (max-width: 790px){
+	
+	.two_center div .p1{
+		background-size:5% ;
+	}
+	.one .p1{
+		font-size:29px;
+	}
+	.one .p2{
+		font-size:12px;
+		top:64%;
+	}
+	.one .p2{
+		display: none;
+	}
+	.one .p1{
+		top:44%;
+	}
+  .three_center .left .w .p1, .three_center .right .w .p1{
+  	font-size: 13px;
+  }
+  .three_center .left .w .p2, .three_center .right .w .p2{
+  	font-size:12px;
+  }
+  .three_center .pq{
+  	font-size:26px;
+  }
+  .four_center .pq{
+  	font-size:25px;
+  }
+  .four_center div p{
+  	font-size:13px;
+  }
+  .five_center div{
+  	padding-bottom: 5%;
+  }
+}
+
+@media only screen and (max-width: 652px){
+	.twelve_center div{
+		font-size: 13px;
+	}
+}
+
+@media only screen and (max-width: 530px){
+	
+	.thirteen_center div{
+		top:55%;
+	}
+	.thirteen{
+		padding-bottom: 65%;
+	}
+	.thirteen_center ul{
+		top:333%;
+	}
+	.thirteen_center .ul1{
+		left:24%;
+	}
+	.thirteen_center .ul2{
+		left:40%;
+	}
+	.thirteen_center .ul3{
+		left:55%;
+	}
+	.thirteen_center p{
+		left:2%;
+	}
+	.thirteen_center div{
+		left:20%;
+	}
+	.thirteen_center div{
+		width:63%;
+	}
+	.twelve_center p{
+		font-size: 13px;
+	}
+	.twelve_center div{
+		font-size: 12px;
+	}
+	.twelve_center div{
+		width:20%;
+		margin-left:35%;
+	}
+	.twelve_center{
+		padding-top: 2%;
+	}
+	.twelve_center div{
+  	width:29%;
+  	margin-top: 1%;
+  }
+}
+@media only screen and (max-width: 530px){
+
+	.two_center div .p1{
+		font-size:12px;
+	}
+	.one .p1{
+		font-size:21px;
+	}
+	.three_center .left .w .p2, .three_center .right .w .p2{
+		display: none;
+	}
+	.three_center .left .w .p1, .three_center .right .w .p1{
+		padding-top: 10%;
+	}
+	.three_center .pq{
+		font-size:22px;
+	}
+	.four_center .pq{
+		font-size:22px;
+	}
+	.four_center div p{
+		font-size:12px;
+	}
+	.four_center div .p1{
+		background: url("../img/chanpjs/xiangzhuang-1.png") no-repeat 49% 62%;
+	    background-size: 7%;
+	}
+	.four_center div p{
+		padding-top: 22%;
+	}
+	.three_center .left .w .p1, .three_center .right .w .p1{
+		font-size:12px;
+	}
+}
+
+@media only screen and (max-width: 467px){
+	.four_center .pq{
+		font-size:16px;	
+	}
+	.five_center div p{
+		display: none;
+	}
+	
+}
+
+@media only screen and (max-width: 434px){
+
+  .thirteen_center div{
+  	width:88%;
+  }
+  .thirteen_center .ul1{
+  	left:21%;
+  }
+  .thirteen_center .ul2{
+  	left:46%;
+  }
+  .thirteen_center .ul3{
+  	left:68%;
+  }
+  .thirteen{
+  	padding-bottom: 68%;
+  }
+  
+}

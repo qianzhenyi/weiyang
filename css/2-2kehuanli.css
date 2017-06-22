@@ -1,0 +1,177 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+.div01{
+	background: url("../img/index/fz.png") no-repeat;
+	background-size: 1.5%;
+	padding-left: 2%;
+	color:rgb(102,102,102);
+	font-size: 13px;
+	margin-left: 8%;
+	margin-top: 6%;
+	padding-bottom: 3%;
+}
+.div02{
+	width: 100%;
+	padding-bottom: 1.5%;
+    border-bottom: 2px solid rgb(202,202,202);
+    font-size:16px;
+     padding-left: 8%;
+}
+.div02 div{
+	display: inline-block;
+    font-size: 13px;
+    padding: 0.3% 2%;
+}
+.div02 div:hover{
+	color: white;
+	background: #c31b26;
+}
+.box{
+	width:90%;
+	margin: 0 auto;
+	padding-top: 2%;
+}
+.box .div1{	
+	display: inline-block;
+	width:29%;
+	padding-left: 1%;
+	padding-bottom: 1%;
+	padding-top: 25%;
+	margin-right: 2%;
+	border: 1px solid rgb(202,202,202);
+	margin-bottom: 3%;
+}
+.box .a{
+	background: url("../img/khalimages/alzx03.png") no-repeat 1% 1%;
+}
+.box .b{
+	background: url("../img/khalimages/alzx05.png") no-repeat 1% 1%;
+}
+.box .c{
+	background: url("../img/khalimages/alzx07.png") no-repeat 1% 1%;
+}
+
+.box .div1 .p1{
+	padding-bottom: 2%;
+	font-size:19px;
+}
+.box .div1 .p2{
+	font-size: 13px;
+	color:#777777;
+}
+.ye{
+	width:50%;
+	margin: 0 auto;
+	padding-bottom: 3%;
+		padding-top: 2%;
+	padding-left: 11%;
+}
+.ye div{
+	display: inline-block;
+
+}
+.ye .z,.ye .e{
+	
+	width:10%;
+	color:white;
+	background: #c31b26;
+	padding: 1% 2%;
+	padding-left: 4%;
+}
+.ye .w{
+	padding-left: 13%;
+	padding-right: 13%;
+}
+
+
+@media only screen and (max-width: 1278px){
+	.box{
+		width:90%;
+	}
+	.box .div1{
+		padding-top: 28%;
+	}
+	.box .div1 .p1{
+		font-size: 17px;
+	}
+	.box .div1 .p2{
+		font-size: 12px;
+	}
+}
+
+@media only screen and (max-width: 1154px){
+	.box .div1 .p1{
+		font-size: 16px;
+	}
+	.box .div1{
+		padding-top: 30%;
+	}
+	.box .div1 .p2{
+		display: none;
+	}
+	
+}
+@media only screen and (max-width: 1077px){
+	.box .div1 .p1{
+		font-size: 14px;
+	}
+	
+	.box .div1{
+		padding-top: 32%;
+	}
+}
+@media only screen and (max-width: 1000px){
+	
+	 .box .div1{
+		padding-top: 34%;
+	}
+	.box .div1 .p1{
+		font-size: 12px;
+	}
+	.ye .z, .ye .e{
+		font-size: 13px;
+	}
+}
+@media only screen and (max-width: 939px){
+	 .box .div1 .p1{
+		display: none;
+	}
+		.ye .z, .ye .e{
+		font-size: 12px;
+	}
+	.ye{
+		width:69%;
+	}
+	
+}
+@media only screen and (max-width: 775px){
+
+ .div02{
+	font-size: 13px;
+ }
+ .ye{
+		width:88%;
+	}
+
+}
+@media only screen and (max-width: 675px){
+ .div02{
+	padding-left: 4%;
+ }
+}
+@media only screen and (max-width: 450px){
+	
+	.box .div1{
+		width:27%
+	}
+	.ye .w{
+		padding-left: 7%;
+		padding-right: 7%;
+	}
+	.ye .z, .ye .e{
+		width: 13%;
+	}
+}
+	

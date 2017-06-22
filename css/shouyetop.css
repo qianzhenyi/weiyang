@@ -1,0 +1,179 @@
+*{
+	padding:0;
+	margin: 0;
+}
+
+.top{
+    width:100%;
+	background:rgba(0,0,0,0);
+	position: fixed;
+	z-index: 10;
+	transition: all 1s;
+	top:0;
+}
+.top_center{
+	width:100%;
+	height:40%;
+	margin: auto;
+}
+.top_center ul{
+	width:58%;
+	list-style:none;
+	float: right;
+	padding-right: 1%;
+}
+.top_center ul li{
+	float:left;
+	width:110px;
+	height:40%;
+	color:white;
+	text-align: center;
+	line-height: 68px;
+	font-size: 16px;
+	position: relative;
+	
+}
+.top_center ul li p{
+	width:80%;
+	border-top:2px solid white;
+	position: absolute;
+	top:67%;
+}
+.top_center ul li .a1{
+	display: none;
+}
+.top_center ul li .a2{
+	display: none;
+}
+/*.top_center ul li:hover p{
+	display: block;
+}*/
+.top .hover,.top .hover2{
+	position: absolute;
+	top:100%;
+	width:100%;
+	height:244%;
+	background:white;
+	display: none;
+	
+}
+
+.hover img,.hover2 img{
+	position: absolute;
+	left:25%;
+	top:10%;
+	width:15%;
+}
+.hover ul,.hover2 ul{
+	list-style: none;
+	position: absolute;
+	left:48%;
+	top:12%;
+}
+.hover ul .li1,.hover2 ul .li1{
+	width:208%;
+	border-bottom:1px solid black;
+	color:black;
+}
+.hover ul li,.hover2 ul li{
+	padding-top: 7%;
+	color:rgb(150,150,150);
+	font-size: 15px;
+}
+@media only screen and (max-width: 1380px){
+	
+	.hover ul li, .hover2 ul li{
+	padding-top: 2%;
+	font-size: 13px;
+	
+}
+.hover ul .li1, .hover2 ul .li1{
+	width:179%;
+}
+.top_center ul li p{
+	left:12%;
+}
+}
+@media only screen and (max-width: 1186px){
+.top_center ul li{
+	font-size: 14px;
+}
+.top_center ul li{
+	line-height: 58px;
+}
+.top_center ul li{
+	width: 93px;
+}
+
+}
+
+@media only screen and (max-width: 990px){
+	.top_center ul{
+		width: 67%;
+	}
+	
+	
+}
+
+@media only screen and (max-width: 850px){
+	.top_center ul{
+		width: 78%;
+	}
+	.top_center ul li{
+		width: 82px;
+	}	
+	.hover img, .hover2 img{
+		left:15%;
+	}
+}
+
+@media only screen and (max-width: 655px){
+	.top_center ul{
+		width: 90%;
+	}
+	.top_center ul li{
+		font-size: 12px;
+	}
+	.top_center ul li{
+		width: 66px;
+	}
+	.hover ul li, .hover2 ul li{
+		font-size: 12px;
+		padding-top: 1%;
+	}
+
+	.top .hover, .top .hover2{
+		height:185%;
+	}
+}
+
+@media only screen and (max-width: 489px){
+	.top_center ul{
+		width:100%;
+	}
+	.top_center ul li{
+		width:56px;
+	}
+}
+/*@media only screen and (max-width: 1063px){
+		.top_center ul li{
+		font-size:14px;
+	}
+	.top_center ul li{
+		line-height: 56px;
+	}
+}
+@media only screen and (max-width: 890px){
+	.top_center ul li p{
+		width: 67%;
+		left:18%;
+	}
+}
+@media only screen and (max-width: 890px){
+	.top_center ul li{
+		line-height: 37px;
+		font-size:12px;
+		width: 14%;
+	}
+
+}*/

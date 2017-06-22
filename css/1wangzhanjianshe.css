@@ -1,0 +1,242 @@
+*{
+  padding: 0;
+  margin: 0;	
+}
+.one{
+	width:100%;
+	position: relative;
+}
+.one img{
+	display: block;
+	width: 100%;
+}
+.one .p1{
+	position: absolute;
+	left:19%;
+	top:25%;
+    font-size: 37px;
+    color:white;
+    font-family: arial;
+    text-shadow: 1px 1px 9px #282828;
+}
+.one .p2{
+	position: absolute;
+	left:18%;
+	top:34%;
+    font-size: 38px;
+    color:#c31b26;
+    font-family: arial;
+}
+.one div{
+	position: absolute;
+	left:19%;
+	top:57%;
+    font-size: 17px;
+    color:white;
+    font-family: arial;
+    border:1px solid #c31b26;
+    padding: 0.5% 3.5%;
+    background: rgba(0,0,0,0.2);
+}
+.two .left{
+	background: #282828;
+	text-align: center;
+	width:31%;
+	position: relative;
+	display: inline-block;
+}
+.two .left div{
+	width:6%;
+	height:4%;
+	background:#282828;
+	position: absolute;
+	left:96%;
+	top:12%;
+	transform: rotate(45deg);
+}
+.two .left p{
+	color:white;	
+	padding-top: 12%;
+	padding-bottom: 6%;
+	font-size: 20px;
+	padding-right: 22%;
+}
+.two .left ul{
+	padding-right: 29%;
+	list-style: none;
+	padding-bottom: 12%;
+}
+.two .left ul li{
+	color:#a3a3a3;
+	font-size: 14px;	
+	padding-bottom:7%;
+	font-weight: bold;
+}
+.two .left h6{
+	border-top:1px solid #a3a3a3;
+	width: 11%;
+	position: absolute;
+	left:30%;
+	top:18%;
+}
+.two .right{
+	width:68%;
+	position: relative;
+	display: inline-block;
+}
+.two .right div{
+	font-size: 25px;
+	position: absolute;
+	left:4%;
+	top:-19%;
+}
+.two .right .p1{
+	font-size: 18px;
+  position: absolute;
+  left:4%;
+   top:-2%;
+}
+.two .right .p2{
+	font-size: 11px;
+  position: absolute;
+  color:#a0a0a0;
+  left:4%;
+   top:8%;
+}
+.two .right img{
+	padding-left: 41%;
+
+}
+
+
+.four{	
+	width:100%;	
+	background: #dbdbdb;
+}
+.four_center{
+    width:80%;
+    margin: 0 auto;
+    padding-top:3%;
+    font-family: "微软雅黑";
+    position: relative;
+    padding-bottom: 4%;
+    
+}
+.four_center .pq{
+	width:100%;
+	font-size: 29px;
+	text-align: center;
+	padding-bottom: 3%;
+}
+.four_center div{
+	position: relative;
+	display: inline-block;
+	width:33%;
+	margin-bottom: 1%;
+}
+.four_center div img{
+	width:96%;
+}
+.four_center div p{
+	width:96%;
+	height:82%;
+	text-align: center;
+	font-size: 17px;
+	color:white;
+	position: absolute;
+	top:0;
+	padding-top: 30%;
+	
+}
+.four_center div .p1{
+	background: url("../img/chanpjs/xiangzhuang-1.png") no-repeat 49% 50%;
+}
+
+@media only screen and (max-width: 1300px){
+.one .p1,.one .p2{
+	font-size: 28px;
+}
+}
+@media only screen and (max-width: 1183px){
+	.four_center .div3,.four_center .div6{
+		display: none;
+	}
+	.four_center div{
+		width:49%;
+	}
+	.two .right img{
+		width:70%;
+	}
+	.two .right div{
+		font-size: 21px;
+	}
+	.two .right .p1{
+		font-size: 16px;
+	}
+}
+@media only screen and (max-width: 900px){
+	.one .p1{
+		left:12%;
+	}
+		.one .p2{
+		left:11%;
+	}
+}
+@media only screen and (max-width: 695px){
+
+	.four_center .pq{
+	 font-size: 24px;
+	}
+	.four_center div p{
+		font-size: 15px;
+	}
+	.two .right .p2{
+		display: none;
+	}
+	.two .right img{
+		width:96%;
+	}
+	.one .p1, .one .p2{
+		font-size: 19px;
+	}
+	.two .left ul li{
+		font-size: 12px;
+	}
+}
+
+@media only screen and (max-width: 600px){
+	.four_center .pq{
+		font-size: 16px;
+	}
+	.four_center div p{
+		font-size: 12px;
+	}
+	.four_center div .p1{
+		background: url("../img/chanpjs/xiangzhuang-1.png") no-repeat 49% 58%
+	}
+	.two .left p{
+		font-size: 17px;
+	}
+
+  .two .right{
+  	width:60%;
+  }
+  .two .right img{
+  		width:114%;
+  }
+	}
+	@media only screen and (max-width: 480px){
+		
+		
+	}
+@media only screen and (max-width: 374px){
+	.two .right img{
+  		width:160%;
+  }
+  .one .p1, .one .p2{
+  		font-size: 13px;
+  }
+  .one div{
+  	font-size: 12px;
+  }
+	}

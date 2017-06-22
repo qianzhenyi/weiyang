@@ -1,0 +1,123 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+.box{
+	width:80%;
+	margin: 0 auto;
+	padding-top: 7%;
+}
+.div01{
+	background: url("../img/index/fz.png") no-repeat;
+	background-size: 1.5%;
+	padding-left: 2%;
+	color:rgb(102,102,102);
+	font-size: 12px;
+}
+.pt{
+	font-size: 28px;
+	width: 100%;
+	text-align: center;
+	padding-top: 3%;
+	padding-bottom: 2%;
+	border-bottom: 2px solid rgb(202,202,202);
+}
+.div2 h6,.div3 h6,.div5 h6,.div7 h6{
+	padding-top: 2%;
+	font-size: 19px;
+	font-family: "微软雅黑";
+	padding-bottom: 2%;
+}
+.div2 p,.div3 p,.div5 p,.div7 .p1{
+	font-size: 13px;
+	color:rgb(111,111,111);
+	line-height: 142%;
+	padding-bottom: 3%;
+}
+.div4,.div6{
+	background: rgb(248,248,248);
+	padding-top: 3%;
+	padding-left: 4%;
+}
+.div4 p,.div6 p{
+	font-size: 13px;
+	color:rgb(111,111,111);
+	line-height: 149%;
+	padding-bottom: 3%;
+}
+.div6{
+	padding-bottom: 3%;
+}
+.div7 .ph{
+	color:#c31b26;
+	padding-bottom: 0;
+	font-weight: bold;
+}
+.div8{
+	background: #474747;
+	padding-bottom: 1%;
+}
+.div8 .p1{
+	font-size: 17px;
+	color:#dbdbdb;
+	padding-top: 3%;
+	padding-left: 3%;
+}
+.div8 .p2{
+	font-size: 12px;
+	color:#dbdbdb;
+	line-height: 152%;
+	padding-left: 3%;
+}
+.div9{
+	padding-right: 0;
+	color:#bdbdbd;
+	font-size:12px;
+	padding-top: 3%;
+	padding-left: 80%;
+	padding-bottom: 4%;
+	position: relative;
+}
+.div9 p{
+	line-height: 1%;
+	display: inline-block;
+	position: absolute;
+	left:74%;
+	top:43%;
+	font-size:12px;
+	color:#bdbdbd;
+}
+.div9 img{
+	width:10%;
+	
+}
+
+
+
+@media only screen and (max-width: 1100px){
+   .box .img1{
+   	width:108%;
+   }
+   .div9 p{
+   	display: none;
+   }
+  }
+  
+  
+@media only screen and (max-width: 650px){
+	.pt{
+		font-size: 24px;
+	}
+	.div2 h6, .div3 h6, .div5 h6, .div7 h6{
+		font-size: 17px;
+	}
+
+}
+
+@media only screen and (max-width: 550px){
+		.pt{
+		font-size: 19px;
+	}
+	
+	}
+	
