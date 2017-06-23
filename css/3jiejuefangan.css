@@ -4,13 +4,16 @@
 	font-family: "微软雅黑";
 }
 
+html,body{
+	width: 100%;
+}
 .one{	
-	width:102%;
+	width:105%;
 	position: relative;
 	overflow: hidden;	
 }
 .one .img1,.five .img1{
-	width: 102%;
+	width: 105%;
 	display: block;
 
 }
@@ -34,7 +37,7 @@
 	color:rgb(203,207,209);
 }
 .two,.three,.four,.five,.six{	
-	width:100%;
+	width:105%;
 	position: relative;
 	}
 .two_center,.three_center,.four_center,.six_center{
@@ -232,10 +235,13 @@
 }
 .five{
 	position: relative;
-	width:100%;
+	width:105%;
 	overflow: hidden;	
 	
 }
+.five img{
+	width:105%;
+	}
 .five .p1{
 	position: absolute;
 	width:100%;
@@ -294,13 +300,13 @@
 }
 
 .twelve,.thirteen{
-	width:102%;
+	width:105%;
 	position: relative;
 	overflow: hidden;
 	
 }
 .twelve .img1{
-	width: 100%;
+	width: 105%;
 	display: block;
 }
 .twelve_center,.thirteen_center{

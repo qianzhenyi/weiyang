@@ -3,9 +3,8 @@
 	margin: 0;
 	font-family: "微软雅黑";
 }
-.one,.two,.three,.four,.five{	
-	width:108%;
-	
+html,body{
+	width: 100%;
 }
 .one,.three,.five{
 	padding-bottom: 50%;
@@ -33,14 +32,18 @@
 	font-weight: bold;
 	line-height: 187%;
 }
+.one,.two,.three,.four,.five{	
+	width:110%;
+	
+}
 .twelve,.thirteen{
-	width:108%;
+	width:110%;
 	position: relative;
 	overflow: hidden;
 	
 }
 .twelve .img1{
-	width: 102%;
+	width: 110%;
 	display: block;
 }
 .twelve_center,.thirteen_center{
