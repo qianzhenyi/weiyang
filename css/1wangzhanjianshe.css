@@ -3,17 +3,15 @@
   margin: 0;	
 }
 
-html,body{
-	width: 90%;
-}
+
 .one{
-	width:100%;
+	width:105%;
 	position: relative;
 }
 
 .one img{
 	display: block;
-	width: 100%;
+	width: 105%;
 }
 .one .p1{
 	position: absolute;
@@ -115,7 +113,7 @@ html,body{
 
 
 .four{	
-	width:100%;	
+	width:105%;	
 	background: #dbdbdb;
 }
 .four_center{
@@ -157,7 +155,7 @@ html,body{
 	background: url("../img/chanpjs/xiangzhuang-1.png") no-repeat 49% 50%;
 }
 .two,.four{
-	width:100%;
+	width:105%;
 }
 
 
@@ -191,7 +189,7 @@ html,body{
 		left:11%;
 	}
 	.two{
-		width:100%;
+		width:105%;
 	}
 }
 @media only screen and (max-width: 695px){
