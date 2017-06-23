@@ -3,7 +3,9 @@
   margin: 0;	
 }
 
-
+body{
+	overflow-x:hidden;
+}
 .one{
 	width:100%;
 	position: relative;

@@ -2,6 +2,9 @@
 	padding: 0;
 	margin: 0;
 }
+body{
+	overflow-x: hidden;
+}
 .div01{
 	background: url("../img/index/fz.png") no-repeat;
 	background-size: 1.5%;
