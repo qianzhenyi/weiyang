@@ -19,6 +19,7 @@ body{
 	padding-bottom: 3%;
 }
 .div02{
+	overflow: hidden;
 	width: 100%;
 	padding-bottom: 1.5%;
     border-bottom: 2px solid rgb(202,202,202);
