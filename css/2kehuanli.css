@@ -2,6 +2,9 @@
 	padding: 0;
 	margin: 0;
 }
+body{
+	overflow-x: hidden;
+}
 .box{
 	width:80%;
 	margin: 0 auto;

@@ -5,6 +5,9 @@
 body{
 	overflow-x: hidden;
 }
+.box a{
+	color:black;
+}
 .div01{
 	background: url("../img/index/fz.png") no-repeat;
 	background-size: 1.5%;
