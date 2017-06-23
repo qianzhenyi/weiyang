@@ -1,7 +1,7 @@
 $(document).scroll(function(){
 	var s=$(document).scrollTop();
 
-	if(s<3200){
+	if(s%200==0){
      
 	$.fn.countTo = function (options) {
 		options = options || {};
