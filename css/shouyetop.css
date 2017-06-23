@@ -4,7 +4,7 @@
 }
 
 .top{
-	overflow-x: hidden;
+	
     width:100%;
 	background:rgba(0,0,0,0);
 	position: fixed;
@@ -13,6 +13,7 @@
 	top:0;
 }
 .top_center{
+	overflow-x: hidden;
 	width:100%;
 	height:40%;
 	margin: auto;
@@ -53,7 +54,7 @@
 	position: absolute;
 	top:100%;
 	width:100%;
-	height:244%;
+	height:322%;
 	background:white;
 	display: none;
 	
