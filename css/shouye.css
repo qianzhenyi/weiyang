@@ -761,12 +761,26 @@
 		top:28%;
 		line-height: 33px;
 	}
+	.two_center div .imga, .two_center div .imgb{
+		width:6%;
+	}
+	.two_center .button{
+		line-height: 29px;
+		width: 23%;
+		font-size: 14px;
+	}
+	.two_center a{
+		font-size: 17px;
+	}
 	.two_center .imgg{
 		width:80%;
 	}
-	.two_center .twodiv{
-		width:60%;
+	.two_center{
+		width:72%;
+		left:55%;
 	}
+	.two_center .twodiv{
+		width:86%;
 	.two_center ul li{
 		margin-right: -2.6%;
 	}
