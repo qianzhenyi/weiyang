@@ -20,11 +20,12 @@
 	padding-bottom: 60%;
 }
 .one ul{
-	width:5000px;
+	width:322%;
 	position: absolute;
 	list-style: none;
 }
 .one ul li{
+	width:33%;
 	float: left;
 	position: relative;
 	
