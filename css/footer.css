@@ -1,6 +1,6 @@
 .footer{
 		
-	width:102%;
+	width:108%;
 	position: relative;
 	background:rgb(102,102,102);
 	height:161px;
@@ -54,7 +54,7 @@
 		font-size: 12px;
 	}
 	.footer_center{
-		width:100%;
+		width:108%;
 	}
 }
 @media only screen and (max-width: 727px){

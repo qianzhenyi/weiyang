@@ -4,7 +4,7 @@
 	font-family: "微软雅黑";
 }
 .one,.two,.three,.four,.five{	
-	width:102%;
+	width:108%;
 	
 }
 .one,.three,.five{
@@ -34,7 +34,7 @@
 	line-height: 187%;
 }
 .twelve,.thirteen{
-	width:100%;
+	width:108%;
 	position: relative;
 	overflow: hidden;
 	
