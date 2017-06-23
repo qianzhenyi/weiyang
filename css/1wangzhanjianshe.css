@@ -6,9 +6,7 @@
 	width:105%;
 	position: relative;
 }
-.two,.four{
-	width:102%;
-}
+
 .one img{
 	display: block;
 	width: 105%;
@@ -154,6 +152,10 @@
 .four_center div .p1{
 	background: url("../img/chanpjs/xiangzhuang-1.png") no-repeat 49% 50%;
 }
+.two,.four{
+	width:108%;
+}
+
 
 @media only screen and (max-width: 1300px){
 .one .p1,.one .p2{
@@ -228,10 +230,7 @@
   		width:114%;
   }
 	}
-	@media only screen and (max-width: 480px){
-		
-		
-	}
+
 @media only screen and (max-width: 374px){
 	.two .right img{
   		width:160%;
