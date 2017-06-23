@@ -3,13 +3,13 @@
   margin: 0;	
 }
 .one{
-	width:105%;
+	width:110%;
 	position: relative;
 }
 
 .one img{
 	display: block;
-	width: 105%;
+	width: 110%;
 }
 .one .p1{
 	position: absolute;
@@ -111,7 +111,7 @@
 
 
 .four{	
-	width:105%;	
+	width:102%;	
 	background: #dbdbdb;
 }
 .four_center{
@@ -153,7 +153,7 @@
 	background: url("../img/chanpjs/xiangzhuang-1.png") no-repeat 49% 50%;
 }
 .two,.four{
-	width:108%;
+	width:110%;
 }
 
 
