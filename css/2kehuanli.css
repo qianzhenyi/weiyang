@@ -12,8 +12,8 @@ body{
 }
 .div01{
 	background: url("../img/index/fz.png") no-repeat;
-	background-size: 15px;
-	padding-left: 23px;
+	background-size:15px;
+	padding-left:23px;
 	color:rgb(102,102,102);
 	font-size: 12px;
 }
