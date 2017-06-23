@@ -4,12 +4,9 @@
 	font-family: "微软雅黑";
 }
 
-html,body{
-	width: 100%;
-}
 .footer{
 		
-	width:108%;
+	width:100%;
 	position: relative;
 	background:rgb(102,102,102);
 	height:161px;
@@ -63,7 +60,7 @@ html,body{
 		font-size: 12px;
 	}
 	.footer_center{
-		width:108%;
+		width:100%;
 	}
 }
 @media only screen and (max-width: 727px){
