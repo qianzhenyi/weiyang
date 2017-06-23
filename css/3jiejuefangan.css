@@ -4,16 +4,13 @@
 	font-family: "微软雅黑";
 }
 
-html,body{
-	width: 100%;
-}
 .one{	
-	width:105%;
+	width:100%;
 	position: relative;
 	overflow: hidden;	
 }
 .one .img1,.five .img1{
-	width: 105%;
+	width: 100%;
 	display: block;
 
 }
@@ -37,7 +34,7 @@ html,body{
 	color:rgb(203,207,209);
 }
 .two,.three,.four,.five,.six{	
-	width:105%;
+	width:100%;
 	position: relative;
 	}
 .two_center,.three_center,.four_center,.six_center{
@@ -235,12 +232,12 @@ html,body{
 }
 .five{
 	position: relative;
-	width:105%;
+	width:100%;
 	overflow: hidden;	
 	
 }
 .five img{
-	width:105%;
+	width:100%;
 	}
 .five .p1{
 	position: absolute;
@@ -300,13 +297,13 @@ html,body{
 }
 
 .twelve,.thirteen{
-	width:105%;
+	width:100%;
 	position: relative;
 	overflow: hidden;
 	
 }
 .twelve .img1{
-	width: 105%;
+	width: 100%;
 	display: block;
 }
 .twelve_center,.thirteen_center{
@@ -528,7 +525,7 @@ html,body{
 
 @media only screen and (max-width: 1000px){
 	
-		.four_center .divt .a1{
+	.four_center .divt .a1{
 		display: none;
 	}
 @media only screen and (max-width: 970px){

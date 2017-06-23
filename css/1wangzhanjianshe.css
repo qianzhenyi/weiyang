@@ -7,13 +7,13 @@ html,body{
 	width: 100%;
 }
 .one{
-	width:110%;
+	width:100%;
 	position: relative;
 }
 
 .one img{
 	display: block;
-	width: 110%;
+	width: 100%;
 }
 .one .p1{
 	position: absolute;
@@ -115,7 +115,7 @@ html,body{
 
 
 .four{	
-	width:102%;	
+	width:100%;	
 	background: #dbdbdb;
 }
 .four_center{
@@ -157,7 +157,7 @@ html,body{
 	background: url("../img/chanpjs/xiangzhuang-1.png") no-repeat 49% 50%;
 }
 .two,.four{
-	width:110%;
+	width:100%;
 }
 
 
@@ -231,13 +231,13 @@ html,body{
   	width:60%;
   }
   .two .right img{
-  		width:114%;
+  		width:100%;
   }
 	}
 
 @media only screen and (max-width: 374px){
 	.two .right img{
-  		width:160%;
+  		width:100%;
   }
   .one .p1, .one .p2{
   		font-size: 13px;

@@ -3,9 +3,7 @@
 	margin: 0;
 	font-family: "微软雅黑";
 }
-html,body{
-	width: 100%;
-}
+
 .one,.three,.five{
 	padding-bottom: 50%;
 }
@@ -33,11 +31,11 @@ html,body{
 	line-height: 187%;
 }
 .one,.two,.three,.four,.five{	
-	width:110%;
+	width:100%;
 	
 }
 .twelve,.thirteen{
-	width:110%;
+	width:100%;
 	position: relative;
 	overflow: hidden;
 	
