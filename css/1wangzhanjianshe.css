@@ -5,13 +5,13 @@
 
 
 .one{
-	width:103%;
+	width:100%;
 	position: relative;
 }
 
 .one img{
 	display: block;
-	width: 103%;
+	width: 100%;
 }
 .one .p1{
 	position: absolute;
