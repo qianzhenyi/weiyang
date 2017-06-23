@@ -9,7 +9,7 @@
 .one,.two,.three,.four,.five,.six,.seven,.eight,.nine,.ten,.eleven,.twelve,.thirteen{
 	width:100%;
 	position: relative;
-/*	overflow: hidden;*/
+	overflow: hidden;
 	
 }
 .one .img1,.two .img1,.three .img1,.four .img1,.five .img1,.six .img1,.seven .img1,.nine .img1,.ten .img1,.eleven .img1,.twelve .img1{
