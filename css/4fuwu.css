@@ -5,7 +5,7 @@
 }
 
 .one{	
-	width:100%;
+	width:102%;
 	position: relative;
 	overflow: hidden;	
 }
@@ -43,7 +43,7 @@
 	top:57%;
 }
 .two{	
-	width:100%;	
+	width:102%;	
 	background: #dbdbdb;
 }
 .two_center{
@@ -73,7 +73,7 @@
 	padding-left: 6%;
 }
 .three{	
-	width:100%;	
+	width:102%;	
 	background: white;
 }
 .three_center{
@@ -145,7 +145,7 @@
 }
 
 .four{	
-	width:100%;	
+	width:102%;	
 	background: #dbdbdb;
 }
 .four_center{
@@ -188,7 +188,7 @@
 }
 
 .five{	
-	width:100%;	
+	width:102%;	
 	background: white;
 }
 .five_center{
@@ -215,7 +215,7 @@
 
 
 .twelve,.thirteen{
-	width:100%;
+	width:102%;
 	position: relative;
 	overflow: hidden;
 	
