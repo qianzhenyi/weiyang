@@ -190,6 +190,9 @@ html,body{
 		.one .p2{
 		left:11%;
 	}
+	.two{
+		width:100%;
+	}
 }
 @media only screen and (max-width: 695px){
 
