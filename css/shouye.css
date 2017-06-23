@@ -891,7 +891,12 @@
 .two_center .twodiv{
 	width: 87%;
 }
-
+.six_center p{
+	padding-left: 14%;
+}
+.six_center .p2{
+	padding-left: 4%;
+}
 	}
 	
 @media only screen and (max-width: 850px){
@@ -953,9 +958,7 @@
 	.eight_center .p1{
 		font-size: 28px;
 	}
-	.six_center p{
-		padding-left: 4%;
-	}
+
 	.four_center div .d1{
 		font-size: 21px;
 	}
