@@ -154,7 +154,7 @@
 .four_center div .p1{
 	background: url("../img/chanpjs/xiangzhuang-1.png") no-repeat 49% 50%;
 }
-.two,.four{
+.four{
 	width:105%;
 }
 
@@ -188,9 +188,9 @@
 		.one .p2{
 		left:11%;
 	}
-	.two{
+	/*.two{
 		width:105%;
-	}
+	}*/
 }
 @media only screen and (max-width: 695px){
 
