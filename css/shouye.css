@@ -880,7 +880,7 @@
   	padding-left: 5%;
   }
   .six_center .p3{
-  	padding-left: 3%;
+  	padding-left: 9%;
   }
   .six_center .p4{
   		padding-left: 3%;
@@ -891,6 +891,7 @@
 .two_center .twodiv{
 	width: 87%;
 }
+
 	}
 	
 @media only screen and (max-width: 850px){
