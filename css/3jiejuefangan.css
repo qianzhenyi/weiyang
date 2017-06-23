@@ -524,6 +524,9 @@
 	.five .p4{
 		font-size:12px;
 	}
+	.thirteen_center ul{
+		top:2%;
+	}
 
 }
 
@@ -574,6 +577,7 @@
 	.thirteen_center{
 		padding-top: 11%;
 	}
+
 
 }
 @media only screen and (max-width: 840px){
