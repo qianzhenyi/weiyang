@@ -624,7 +624,25 @@
 	font-family: arial;
 }
 
+@media only screen and (max-width: 1350px){
+	.one h4{
+		font-size: 34px;
+
+	}
+	.one h5{
+		font-size: 34px;
+
+	}
+ }
 @media only screen and (max-width: 1216px){
+	.one h4{
+		font-size: 31px;
+
+	}
+	.one h5{
+		font-size: 31px;
+
+	}
  
 	.two_center .divv{
 	    display: none;
@@ -743,19 +761,28 @@
 	 .six_center .p3{
   	padding-left:6%;
   }
+  .one h4{
+		font-size: 28px;
+		
+	}
+	.one h5{
+		font-size: 28px;
+	
+	}
 	
 }
 @media only screen and (max-width: 1000px){
 	.one h4{
 		font-size: 24px;
 		left:5%;
-		top:18%;
+		top:38%;
 	}
 	.one h5{
 		font-size: 24px;
 		left:5%;
-		top:22%;
+		top:48%;
 	}
+	
 	.one p{
 		font-size: 13px;
 		left:5%;
@@ -900,6 +927,9 @@
 }
 .six_center h1{
 	padding-left: 10%;
+}
+.one p{
+	top:60%;
 }
 	}
 	
