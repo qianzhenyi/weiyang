@@ -474,8 +474,11 @@
 			font-size: 13px;
 			padding-bottom: 3%;
 	}
-			.six_center .div2 .img6{
+	.six_center .div2 .img6{
 		display: none;
+	}
+	.six_center .div2 img{
+	margin-right:4% ;
 	}
 }
 
@@ -521,12 +524,15 @@
 	.five .p4{
 		font-size:12px;
 	}
+
 }
 
 @media only screen and (max-width: 1000px){
 	
 	.four_center .divt .a1{
 		display: none;
+	}
+
 	}
 @media only screen and (max-width: 970px){
 	/*.six_center .div1 .div3{
@@ -568,6 +574,7 @@
 	.thirteen_center{
 		padding-top: 11%;
 	}
+
 }
 @media only screen and (max-width: 840px){
 	.four_center .div1 .a2{
