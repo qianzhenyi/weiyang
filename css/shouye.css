@@ -5,7 +5,9 @@
 	font-family: "微软雅黑";
 
 }
-
+html,body{
+	width:110%;
+}
 .one,.two,.three,.four,.five,.six,.seven,.eight,.nine,.ten,.eleven,.twelve,.thirteen{
 	width:100%;
 	position: relative;
