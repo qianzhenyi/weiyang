@@ -162,6 +162,9 @@
 .one .p1,.one .p2{
 	font-size: 28px;
 }
+.one,.two,.four{
+	width:102%;
+	}
 }
 @media only screen and (max-width: 1183px){
 	.four_center .div3,.four_center .div6{
