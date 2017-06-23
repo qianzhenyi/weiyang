@@ -113,7 +113,7 @@
 
 
 .four{	
-	width:105%;	
+	width:100%;	
 	background: #dbdbdb;
 }
 .four_center{
@@ -154,12 +154,8 @@
 .four_center div .p1{
 	background: url("../img/chanpjs/xiangzhuang-1.png") no-repeat 49% 50%;
 }
-.two{
-	width:103%;
-}
-.four{
-	width:108%;
-}
+
+
 
 
 @media only screen and (max-width: 1300px){
@@ -183,6 +179,10 @@
 	.two .right .p1{
 		font-size: 16px;
 	}
+	.two .right img{
+	padding-left: 30%;
+
+}
 }
 @media only screen and (max-width: 900px){
 	.one .p1{
