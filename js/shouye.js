@@ -36,7 +36,7 @@
 			}
 
 			$(".one ul").stop().animate({
-	    		"left":-q*1440+"px"	    		
+	    				"left":-q*106+"%"  		
 	    	},2000);	
         }
 		}
