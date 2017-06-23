@@ -121,6 +121,129 @@
 	color:black;
 	font-size:15px;
 }
+
+@media only screen and (max-width: 1000px){
+
+.two, .four, .six{
+	font-size:13px;
+}
+}
+
+@media only screen and (max-width: 970px){
+	.twelve_center p{
+		font-size: 21px;
+	}
+	.thirteen_center{
+		padding-top: 11%;
+	}
+}
+@media only screen and (max-width: 869px){
+
+	.twelve_center, .thirteen_center{
+		width:95%;
+	}
+	.twelve_center p{
+		font-size: 17px;
+	}
+	.twelve_center{
+		padding-top: 4%;
+	}
+	.thirteen_center ul{
+		font-size: 12px;
+	}
+	.thirteen_center ul .li1{
+		font-size: 13px;
+	}
+
+	.thirteen_center p{
+		font-size: 15px;
+	}
+	.thirteen_center div{
+		left:-1%;
+			top:42%;
+			width:46%;
+			font-size: 12px;
+	}
+  .thirteen_center .ul1 .lili, .thirteen_center .ul2 .lili{
+  	display: none;
+  }
+  .thirteen_center ul{
+  	left:52%;
+  }
+  .thirteen_center .ul3{
+  	left:85%;
+  }
+}
+
+@media only screen and (max-width: 652px){
+	.twelve_center div{
+		font-size: 13px;
+	}
+}
+
+@media only screen and (max-width: 530px){
+	
+	.thirteen_center div{
+		top:55%;
+	}
+	.thirteen{
+		padding-bottom: 65%;
+	}
+	.thirteen_center ul{
+		top:333%;
+	}
+	.thirteen_center .ul1{
+		left:24%;
+	}
+	.thirteen_center .ul2{
+		left:40%;
+	}
+	.thirteen_center .ul3{
+		left:55%;
+	}
+	.thirteen_center p{
+		left:2%;
+	}
+	.thirteen_center div{
+		left:20%;
+	}
+	.thirteen_center div{
+		width:63%;
+	}
+	.twelve_center p{
+		font-size: 13px;
+	}
+	.twelve_center div{
+		font-size: 12px;
+	}
+	.twelve_center div{
+		width:20%;
+		margin-left:35%;
+	}
+	.twelve_center{
+		padding-top: 2%;
+	}
+	.twelve_center div{
+  	width:29%;
+  	margin-top: 1%;
+  }
+}
 @media only screen and (max-width: 434px){
 
+  .thirteen_center div{
+  	width:88%;
+  }
+  .thirteen_center .ul1{
+  	left:21%;
+  }
+  .thirteen_center .ul2{
+  	left:46%;
+  }
+  .thirteen_center .ul3{
+  	left:68%;
+  }
+  .thirteen{
+  	padding-bottom: 68%;
+  }
+  
 }
