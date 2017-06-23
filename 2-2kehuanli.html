@@ -119,4 +119,14 @@
 	</body>
 	<script src="js/jquery-2.1.0.js" type="text/javascript" charset="utf-8"></script>
      <script src="js/shouye.js" type="text/javascript" charset="utf-8"></script>
+     <script type="text/javascript">
+     	   $(document).scroll(function(){
+	var a=$(document).scrollTop();
+	if(a>=1){
+		$(".top").css("background","black");
+	}else if(a==0){
+		$(".top").css("background","black");
+	}
+  })
+     </script>
 </html>
