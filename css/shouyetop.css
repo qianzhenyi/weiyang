@@ -114,7 +114,9 @@ body{
 		width: 67%;
 	}
 	
-	
+	.top_center ul li{
+		line-height: 40px;
+	}
 }
 
 @media only screen and (max-width: 850px){
