@@ -14,12 +14,12 @@ body{
 	padding-left: 2%;
 	color:rgb(102,102,102);
 	font-size: 13px;
-	/*margin-left: 8%;*/
+	margin-left: 8%;
 	margin-top: 6%;
 	padding-bottom: 3%;
 }
 .div02{
-	width: 100%;
+	width: 92%;
 	padding-bottom: 1.5%;
     border-bottom: 2px solid rgb(202,202,202);
     font-size:16px;
@@ -45,7 +45,7 @@ body{
 	padding-left: 1%;
 	padding-bottom: 1%;
 	padding-top: 25%;
-/*	margin-right: 2%;*/
+	margin-right: 2%;
 	border: 1px solid rgb(202,202,202);
 	margin-bottom: 3%;
 }
