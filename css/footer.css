@@ -55,13 +55,16 @@
 @media only screen and (max-width: 1183px){
 	
 .footer_center .div1 span{
-		font-size: 12px;
+		font-size: 13px;
 	}
 	.footer_center .div2{
-		font-size: 12px;
+		font-size: 13px;
 	}
 	.footer_center{
 		width:100%;
+	}
+		.footer_center .div1 .a{
+		display: none;
 	}
 }
 @media only screen and (max-width: 1000px){
@@ -73,7 +76,7 @@
 		font-size: 14px;
 	}
 	.footer_center .div1 span{
-		font-size: 13px;
+		font-size: 15px;
 	}
 	
 }

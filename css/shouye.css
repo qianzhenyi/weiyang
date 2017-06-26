@@ -773,7 +773,7 @@
 	display: none;
 }
 .thirteen_center div{
-	font-size: 16px;
+	font-size: 18px;
 	top:18%;
 	left:15%
 }
@@ -784,13 +784,19 @@
 	width:37%;
 }
 .five_center ul li{
-	font-size: 16px;
+	font-size: 18px;
 }
 .three .ul1 li .b, .three .ul2 li .b{
 	display: none;
 }
 .three .ul1 li, .three .ul2 li{
 	padding-bottom: 15%;
+}
+.five_center ul li{
+	background: url("../img/14.png") no-repeat 0 2px;
+}
+.three .ul1 li, .three .ul2 li{
+	font-size: 19px;
 }
 }
 @media only screen and (max-width: 1000px){
@@ -872,7 +878,7 @@
 		width:94%;
 	}
   .nine ul li{
-  	font-size: 15px;
+  	font-size: 18px;
   }
    .nine p{
   	font-size:27px;
@@ -908,7 +914,7 @@
   	padding-top: 6%;
   }
   .five_center ul li{
-  	font-size: 14px;
+  	font-size: 18px;
   }
   .five_center .p1{
   	font-size: 30px;
