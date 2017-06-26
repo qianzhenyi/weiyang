@@ -773,12 +773,24 @@
 	display: none;
 }
 .thirteen_center div{
-	font-size: 14px;
-	top:28%;
-	left:27%
+	font-size: 16px;
+	top:18%;
+	left:15%
 }
 .twelve_center div{
 	font-size: 13px;
+}
+.five_center ul{
+	width:37%;
+}
+.five_center ul li{
+	font-size: 16px;
+}
+.three .ul1 li .b, .three .ul2 li .b{
+	display: none;
+}
+.three .ul1 li, .three .ul2 li{
+	padding-bottom: 15%;
 }
 }
 @media only screen and (max-width: 1000px){
@@ -860,7 +872,7 @@
 		width:94%;
 	}
   .nine ul li{
-  	font-size: 14px;
+  	font-size: 15px;
   }
    .nine p{
   	font-size:27px;
