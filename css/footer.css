@@ -64,21 +64,20 @@
 		width:100%;
 	}
 }
-@media only screen and (max-width: 727px){
-	
-	.footer_center .div1 span:nth-child(4){
+@media only screen and (max-width: 1000px){
+	.footer_center .div1 .a{
 		display: none;
 	}
-		.footer_center .div1 span:nth-child(5){
-		display: none;
+	.footer_center .div1{
+		padding-left:27%;
+		font-size: 14px;
 	}
-		.footer_center .div1 span:nth-child(6){
-		display: none;
-	}
-		.footer_center .div1 span:nth-child(7){
-		display: none;
+	.footer_center .div1 span{
+		font-size: 13px;
 	}
 	
+}
+
 }
 @media only screen and (max-width: 450px){
    .footer_center .div1 span:nth-child(8){
