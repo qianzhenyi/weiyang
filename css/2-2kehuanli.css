@@ -15,8 +15,8 @@ body{
 	color:rgb(102,102,102);
 	font-size: 13px;
 	margin-left: 8%;
-	margin-top: 6%;
-	padding-bottom: 3%;
+	margin-top: 10%;
+	padding-bottom: 2%;
 	width: 80%;
 }
 .div02{
@@ -135,7 +135,7 @@ body{
 @media only screen and (max-width: 1000px){
 	
 	 .box .div1{
-		padding-top: 34%;
+		padding-top: 32%;
 	}
 	.box .div1 .p1{
 		font-size: 12px;
@@ -170,6 +170,12 @@ body{
  .div02{
 	padding-left: 4%;
  }
+}
+@media only screen and (max-width: 550px){
+	.box .a,.box .b,.box .c{
+			background-size:154%;
+	}
+
 }
 @media only screen and (max-width: 450px){
 	
