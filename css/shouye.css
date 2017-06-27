@@ -1243,7 +1243,7 @@
 		font-size: 13px;
 	}
 	.one p{
-		width:17%;
+		width:21%;
 		line-height: 20px;
 		top:64%;
 	}
@@ -1348,4 +1348,13 @@
 	.two_center .twodiv .li2{
 		margin-right: -6.5%;
 	}
+   .two_center .imgg{
+   	width: 111px;
+   }
+   .two_center ul{
+   	width:10%;
+   }
+   .two_center ul li{
+   		width: 144px;
+   }
 	}

@@ -799,6 +799,38 @@
   	.six_center .div1 .last{
 		display: none;
 	}
+	.two_center .left{
+		display: none;
+	}
+	.two_center{
+		padding-bottom: 23%;
+	}
+	.two_center .right{
+		float:left;
+		width:68%;
+	}
+	.three_center .a{
+		background-size:18% ;
+	}
+	.five .p1, .five .p2, .five .p3, .five .p4{
+		left:6%;
+	}
+	.six_center .div1 div{
+		width:23%;
+		padding-top: 20%;
+	}
+	.twelve_center p{
+		font-size: 12px;
+	}
+	.thirteen_center ul{
+		display: none;
+	}
+	.thirteen{
+		padding-bottom: 35%;
+	}
+	.thirteen_center div{
+		width:70%;
+	}
 }
 @media only screen and (max-width: 434px){
 	
@@ -835,8 +867,6 @@
   .thirteen_center .ul3{
   	left:68%;
   }
-  .thirteen{
-  	padding-bottom: 68%;
-  }
+
   
 }

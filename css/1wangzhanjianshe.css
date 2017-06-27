@@ -240,6 +240,29 @@
   .two .right img{
   		width:100%;
   }
+  .two .right{
+  	width: 63%;
+  }
+  .one .p1, .one .p2{
+  	font-size: 14px;
+  }
+  .one .p2{
+  	top:40%;
+  }
+  .two .right div{
+  	top:-43%;
+  }
+  .two .right .p1{
+  		top:-22%;
+  		font-size: 13px;
+  }
+  .one div{
+  	left:11%;
+  	font-size: 12px;
+  }
+  .div2 p, .div3 p, .div5 p, .div7 .p1{
+  	font-size: 12px;
+  }
 	}
 
 @media only screen and (max-width: 374px){

@@ -79,7 +79,7 @@
 		font-size: 15px;
 	}
 	
-}
+
 
 }
 @media only screen and (max-width: 550px){
@@ -91,10 +91,17 @@
 	padding-top: 2px;
 }
  .footer{
- 	height:17%:
+ 	height:110px:
 }
 .footer_center .div1 span{
 	height:16px;
+	font-size: 12px;
+}
+.footer_center{
+	padding-top: 12px;
+}
+.footer_center .div2{
+	font-size: 12px;
 }
 }
 @media only screen and (max-width: 450px){

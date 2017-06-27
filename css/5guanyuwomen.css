@@ -184,7 +184,21 @@
 		font-size: 13px;
 	}
 }
-
+@media only screen and (max-width: 550px){
+	.one{
+			background-size:100%;
+		padding-left: 1%;
+		padding-right: 1%;
+		font-size: 12px;
+	}
+	.two,.four,.six{
+		width:96%;
+       padding-left: 4%;
+		padding-right:1%;
+		font-size: 12px;
+		}
+	
+}
 @media only screen and (max-width: 530px){
 	
 	.thirteen_center div{
