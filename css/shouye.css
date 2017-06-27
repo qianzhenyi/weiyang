@@ -1160,7 +1160,7 @@
 	}
 	.twelve_center div{
 		font-size:12px;
-		width:23%;
+		width:32%;
 	}
 
 	.thirteen_center div{
@@ -1334,7 +1334,7 @@
 		padding-top:2%;
 	}
 	.twelve_center div{
-		width:30%;
+		width:32%;
 		margin-left: 34%;
 	}
 	.thirteen_center div{
@@ -1377,6 +1377,14 @@
    }
    .you .p3{
    	font-size: 12px;
+   	
+   }
+   .seven_center .box div .d1{
+   	font-size: 12px;
+   }
+   .nine_center{
+   	top:15%;
+   	left:56%;
    	
    }
 	}
