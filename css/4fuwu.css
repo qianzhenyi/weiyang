@@ -536,6 +536,12 @@
 	.thirteen_center div{
 		width:70%;
 	}
+	.two_center .p2{
+		display: none;
+	}
+	.two_center br{
+		display: none;
+	}
 }
 
 @media only screen and (max-width: 467px){

@@ -1357,4 +1357,26 @@
    .two_center ul li{
    		width: 144px;
    }
+   .five_center ul li{
+   	background-size: 9%;
+   }
+   .five_center .p1{
+   	display: none;
+   }
+   .five_center{
+   	padding-top: 4%;
+   }
+   .six_center h1{
+   	font-size: 21px;
+   }
+   .nine_center{
+   	top:5%;
+   }
+   .you{
+   	font-size: 12px;
+   }
+   .you .p3{
+   	font-size: 12px;
+   	
+   }
 	}

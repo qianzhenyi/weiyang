@@ -130,3 +130,9 @@
 console.log($(window).width())
 
 
+//////////////手机头部导航//////////////////////
+$(".top .shouji").click(function(){
+
+	$(".shouji .caidan").	slideToggle(500);
+
+})
