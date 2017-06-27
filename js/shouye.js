@@ -77,8 +77,6 @@
 	var a=$(document).scrollTop();
 	if(a>=1){
 		$(".top").css("background","black");
-	}else if(a==0){
-		$(".top").css("background","rgba(0,0,0,0)");
 	}
   })
 
