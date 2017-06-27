@@ -1097,9 +1097,7 @@
 	.five_center ul li{
 		font-size: 11px;
 	}
-	.five_center ul li{
-		background: url(img/14.png) no-repeat 0 1px
-	}
+
 	.five_center{
 		width:90%;
 	}
@@ -1230,5 +1228,124 @@
 	}
 	.thirteen_center div .br1{
 		display: none;
+	}
+	
+	
+	
+	.one .imgleft,.one .imgright{
+		width:6%;
+	}
+	.one h5{
+		font-size: 14px;
+	}
+	
+	.one h4{
+		font-size: 13px;
+	}
+	.one p{
+		width:17%;
+		line-height: 20px;
+		top:64%;
+	}
+	.two_center .p1{
+		font-size: 19px;
+	}
+	.two_center{
+		padding-top: 6%;
+	}
+	.two_center ul li{
+		width:18%;
+		margin-right:-6.6%;
+	}
+	.two_center .twodiv{
+		width:154%;
+		margin-left: -18%;
+		}
+	.two_center .twodiv{
+		margin-top: 10%;
+	}	
+	.three .ul2, .three .ul1{
+		top:66%;
+	}
+	.three_center .p2{
+		display: none;
+	}
+	.three_center .p1{
+		font-size: 18px;
+	}
+	.four_center .p2{
+		font-size: 13px;
+	}
+	.four_center div .d1{
+		font-size: 13px;
+	}
+	.five_center .p1{
+		font-size: 13px;
+	}
+	.five_center .hou{
+		display: none;
+	}
+	.five_center ul{
+		left:0;
+		top:171%;
+		width:42%;
+	}
+	.five_center ul li{
+		padding-left: 15%;
+		background: url("../img/14.png") no-repeat ;
+	}
+	.six_center p{
+		width:16%;
+	}
+	.six_center .dc{
+		padding-left: 5%;
+	}
+	.six_center .df{
+		padding-left: 9%;
+	}
+	.six_center .de{
+		padding-left: 11%;
+	}
+	.six_center p{
+		padding-top: 0;
+	}
+	.seven_center .p1{
+		font-size: 21px;
+	}
+	.seven_center{
+		padding-top: 3%;
+	}
+	.eight_center .p1{
+		font-size: 20px;
+	}
+	.nine_center{
+		padding-top:2%;
+	}
+	.ten_center .p1{
+		font-size: 18px;
+	}
+	.eleven_center .p1{
+		font-size: 18px;
+	}
+	.twelve_center p{
+		font-size: 13px;
+	}
+	.twelve_center{
+		padding-top:2%;
+	}
+	.twelve_center div{
+		width:30%;
+		margin-left: 34%;
+	}
+	.thirteen_center div{
+		top:7%;
+		width:80%;
+		font-size: 12px;
+	}
+	.thirteen_center p{
+		font-size: 13px;
+	}
+	.two_center .twodiv .li2{
+		margin-right: -6.5%;
 	}
 	}

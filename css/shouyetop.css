@@ -11,18 +11,46 @@
 	z-index: 10;
 	transition: all 1s;
 	top:0;
+	padding-bottom: 5%;
 }
+
+.top .shouji{
+	width:43px;
+	height:53%;
+	background:#3e3131;
+	position: absolute;
+	right:8%;
+	top:8%;
+	padding: 1%;
+	padding-top: 0.7%;
+}
+
+.top .shouji p{
+	height:40%;
+	width:40px;
+	border-top: 3px solid white;
+	border-bottom: 3px solid white;
+}
+
+
+
+
+
+
 .top_center{
 	overflow-x: hidden;
 	width:100%;
 	height:40%;
 	margin: auto;
+		display:none ;
 }
 .top_center ul{
 	width:58%;
 	list-style:none;
 	float: right;
 	padding-right: 0%;
+
+	
 }
 .top_center ul li{
 	float:left;
@@ -33,6 +61,7 @@
 	line-height: 50px;
 	font-size: 16px;
 	position: relative;
+	
 	
 }
 .top_center ul li p{

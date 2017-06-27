@@ -82,6 +82,21 @@
 }
 
 }
+@media only screen and (max-width: 550px){
+	.footer_center .div1 .a{
+		display: none;
+		
+}
+    .footer_center{
+	padding-top: 2px;
+}
+ .footer{
+ 	height:17%:
+}
+.footer_center .div1 span{
+	height:16px;
+}
+}
 @media only screen and (max-width: 450px){
    .footer_center .div1 span:nth-child(8){
 		display: none;
