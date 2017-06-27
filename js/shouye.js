@@ -133,6 +133,21 @@ console.log($(window).width())
 //////////////手机头部导航//////////////////////
 $(".top .shouji").click(function(){
 
-	$(".shouji .caidan").	slideToggle(500);
+	$(".top .caidan").	slideToggle(500);
 
+})
+
+
+$(".top .caidan .span1").click(function(){
+	
+	$(".top .caidan .w").	slideToggle(500);
+	$(".top .caidan").show();
+})
+
+
+$(".top .caidan .span2").click(function(){
+	
+	$(".top .caidan .q").	slideToggle(500);
+	$(".top .caidan").show();
+	
 })

@@ -192,11 +192,27 @@
 		font-size: 12px;
 	}
 	.two,.four,.six{
-		width:96%;
+		width:92%;
        padding-left: 4%;
 		padding-right:1%;
 		font-size: 12px;
 		}
+	.one,.three,.five{
+		background-attachment: scroll;
+		background-size: 100%;
+	}
+	.twelve_center p{
+		font-size: 12px;
+	}
+	.thirteen_center ul{
+		display: none;
+	}
+	.thirteen{
+		padding-bottom: 35%;
+	}
+	.thirteen_center div{
+		width:70%;
+	}
 	
 }
 @media only screen and (max-width: 530px){
@@ -204,9 +220,7 @@
 	.thirteen_center div{
 		top:55%;
 	}
-	.thirteen{
-		padding-bottom: 65%;
-	}
+
 	.thirteen_center ul{
 		top:333%;
 	}
@@ -260,8 +274,6 @@
   .thirteen_center .ul3{
   	left:68%;
   }
-  .thirteen{
-  	padding-bottom: 68%;
-  }
+
   
 }
